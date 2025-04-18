@@ -10,3 +10,7 @@ html,
 body {
   height: 100%;
 }
+
+body {
+    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+}
