@@ -17,3 +17,7 @@ body {
     flex-direction: column;
     color: #fff;
 }
+
+main {
+  flex: 1;
+}
