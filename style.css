@@ -38,4 +38,5 @@ p {
 /* Layout */
 .screen {
   display: none;
+  max-width: 600px;
 }
