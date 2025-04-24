@@ -40,4 +40,5 @@ p {
   display: none;
   max-width: 600px;
   width: 100%;
+  background: rgba(0, 0, 0, 0.8);
 }
