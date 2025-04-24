@@ -41,4 +41,5 @@ p {
   max-width: 600px;
   width: 100%;
   background: rgba(0, 0, 0, 0.8);
+  padding: 30px;
 }
