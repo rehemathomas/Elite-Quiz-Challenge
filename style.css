@@ -47,3 +47,7 @@ p {
   transition: all 0.3s ease;
   margin: 20px auto;
 }
+
+.screen.active {
+  display: block;
+}
