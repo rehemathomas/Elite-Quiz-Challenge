@@ -54,4 +54,5 @@ p {
 
 .categories {
   display: flex;
+  flex-wrap: wrap;
 }
