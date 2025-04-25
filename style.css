@@ -51,3 +51,7 @@ p {
 .screen.active {
   display: block;
 }
+
+.categories {
+  display: flex;
+}
