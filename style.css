@@ -58,3 +58,7 @@ p {
   justify-content: center;
   gap: 15px;
 }
+
+.category-btn {
+  background: #fff;
+}
