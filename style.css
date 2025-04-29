@@ -76,3 +76,7 @@ p {
   color: #000;
   transform: scale(1.05);
 }
+
+.quiz-header {
+  margin-bottom: 25px;
+}
