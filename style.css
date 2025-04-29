@@ -70,3 +70,7 @@ p {
   cursor: pointer;
   transition: all 0.3s ease;
 }
+
+.category-btn:hover {
+  background: #ffc107;
+}
