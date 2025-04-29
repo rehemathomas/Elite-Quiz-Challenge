@@ -74,4 +74,5 @@ p {
 .category-btn:hover {
   background: #ffc107;
   color: #000;
+  transform: scale(1.05);
 }
