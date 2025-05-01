@@ -90,3 +90,7 @@ p {
   font-size: 16px;
   color: #f0f0f0;
 }
+
+#progress-bar {
+  width: 100%;
+}
