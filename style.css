@@ -80,3 +80,7 @@ p {
 .quiz-header {
   margin-bottom: 25px;
 }
+
+#quiz-title {
+  font-size: 24px;
+}
