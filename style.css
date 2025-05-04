@@ -97,4 +97,5 @@ p {
   background: #ccc;
   border-radius: 10px;
   margin-top: 10px;
+  overflow: hidden;
 }
