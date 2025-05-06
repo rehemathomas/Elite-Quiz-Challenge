@@ -104,4 +104,5 @@ p {
   width: 0%;
   height: 100%;
   background: #4caf50;
+  transition: width 0.4s ease;
 }
