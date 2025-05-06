@@ -106,3 +106,7 @@ p {
   background: #4caf50;
   transition: width 0.4s ease;
 }
+
+#question-container {
+  margin-bottom: 30px;
+}
