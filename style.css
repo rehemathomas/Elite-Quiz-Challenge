@@ -110,3 +110,7 @@ p {
 #question-container {
   margin-bottom: 30px;
 }
+
+.answer-buttons {
+  list-style: none;
+}
