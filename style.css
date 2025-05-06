@@ -113,4 +113,5 @@ p {
 
 .answer-buttons {
   list-style: none;
+  padding: 0;
 }
