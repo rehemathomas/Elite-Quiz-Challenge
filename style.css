@@ -122,4 +122,5 @@ p {
 .answer-buttons button {
   background: #ffffff;
   color: #000;
+  border: none;
 }
