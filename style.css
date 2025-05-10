@@ -118,3 +118,7 @@ p {
   flex-direction: column;
   gap: 15px;
 }
+
+.answer-buttons button {
+  background: #ffffff;
+}
