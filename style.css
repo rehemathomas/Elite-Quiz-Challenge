@@ -138,4 +138,5 @@ p {
 
 .answer-buttons button.correct {
   background: #4caf50 !important; 
+  color: white !important; 
 }
