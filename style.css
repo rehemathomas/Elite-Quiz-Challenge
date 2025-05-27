@@ -135,3 +135,7 @@ p {
   color: black; 
   transform: scale(1.02);  
 }
+
+.answer-buttons button.correct {
+  background: #4caf50 !important; 
+}
