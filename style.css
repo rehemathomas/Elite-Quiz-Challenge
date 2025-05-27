@@ -143,4 +143,5 @@ p {
 
 .answer-buttons button.wrong {
   background: #f44336 !important;
+  color: white !important; 
 }
