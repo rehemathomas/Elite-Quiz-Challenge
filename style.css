@@ -188,3 +188,19 @@ footer {
   bottom: 0; 
   margin-top: auto; 
 }
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  .categories {
+    flex-direction: column; 
+    align-items: center; 
+  }
+
+  .quiz-footer {
+    flex-direction: column;
+  }
+
+  .quiz-footer button {
+    width: 100%; 
+  }
+}
