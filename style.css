@@ -154,3 +154,20 @@ p {
   font-size: 18px;
   margin: 8px 0;
 }
+
+/* Center Restart Button */
+#restart-btn {
+  margin-top: 20px; 
+  background: #673ab7; 
+  padding: 15px 25px;
+  font-size: 16px; 
+  border-radius: 12px; 
+  font-weight: bold; 
+  cursor: pointer; 
+  color: white; 
+  border: none; 
+  display: block; 
+  margin: 20px auto; 
+  text-align: center; 
+  transition: background 0.3s ease; 
+}
