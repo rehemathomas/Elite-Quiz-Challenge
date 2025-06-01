@@ -149,3 +149,7 @@ p {
 .quiz-footer {
   display: none; 
 }
+
+#result-screen p {
+  font-size: 18px;
+}
