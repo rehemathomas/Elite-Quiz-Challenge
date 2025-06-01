@@ -171,3 +171,7 @@ p {
   text-align: center; 
   transition: background 0.3s ease; 
 }
+
+#restart-btn:hover {
+  background: #5e35b1; 
+}
